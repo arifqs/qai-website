@@ -1,0 +1,99 @@
+Product page
+    Quality AI Portal   Izanagi - イザナギ
+        IZANAGI is a revolutionary portal site designed to democratize access to the full spectrum of generative AI capabilities. Imagine a platform where every AI function—from image generation to complex data analysis—is just a single click away. With IZANAGI, users can harness specialized models tailored to their unique needs, whether they're professionals seeking advanced tools or beginners exploring AI for the first time. The platform’s intuitive, user-friendly interface breaks down barriers, ensuring that even those without technical expertise can unlock the transformative power of AI.
+            ・Seamless Integration: 
+                Our portal site allows you to combine multiple AI tools into a cohesive workflow. For example, generate a text data with voice-to-text tools, then summarize it with Chat with Document to create minutes instantly within the same site.
+            ・Dedicated Models for Every Task: 
+                IZANAGI hosts a curated collection of AI models, each for specific functions. From natural language processing to image generation, every tool is designed to deliver precision and efficiency.
+            ・Join the rebolution today:
+                IZANAGI isn’t just another AI platform. It’s a gateway to a future where maximum AI utilization to increase productivity and efficiency. IZANAGI provides the tools to turn your vision into reality. With its user-centric design, robust features, and a community that’s always growing, IZANAGI ensures you’re never alone in unlocking AI’s potential.
+        The future of AI is here—experience it with IZANAGI.
+
+    Feature - 機能説明
+
+        Quality AI Chat - クオリティAIチャット
+            Leverage the power of AI Chat to transform how you communicate, solve problems, and collaborate. Our chatbot integrates natural language processing and machine learning to deliver instant, intuitive support while maximizing productivity. Whether you’re troubleshooting complex issues, drafting creative ideas, or analyzing data, our system adapts seamlessly to your needs.
+            Key Features:
+            - Model Selection   - モデルの選択
+                Multiple LLM models are available and can switch models instantly based on the situation and needs.  - 複数のLLMモデルを実装しており、状況やニーズに応じて使用するモデルを即座に切り替えることが可能です。
+                Switch models mid-conversation to optimize for precision, creativity, or speed.
+                Real-time adaptation ensures the best tool is always at your fingertips, eliminating the need to restart or rephrase queries.
+            - Security  - セキュリティ
+                All interactions occur on a private, secure platform designed to safeguard sensitive information. Data never leaves the local environment.
+
+        Chat With Documents - 資料付きチャット
+            Unlock the full potential of your documents with the revolutionary Chat With Documents feature. This cutting-edge tool empowers users to effortlessly upload PDFs, presentation slides, and others to access concise summaries, targeted answers, and tailored insights all in real time. Whether navigating a complex legal contract or simplifying a technical manual, this feature streamlines document review by turning dense content into actionable takeaways.
+            Key Features:
+            - Versatile Document Support: 
+                Support for PDFs, presentation slides and doc ensures compatibility with the most common formats, making it easy to integrate into your workflow. From academic papers to business reports, all documents are parsed efficiently to deliver the information you need, quickly.
+            - Model Selection   - モデルの選択
+                This feature has multiple LLM models available and can switch models instantly based on the situation and needs. - こちらの機能も複数のLLMモデルを実装しており、簡単に切り替えることが可能です。
+            - Security  - セキュリティ
+                Your confidentiality is our priority. Confidential or personal informations could be uploaded without a risk of leakage or use for leakage.   - 社内情報や機密情報、個人情報をアップロードしても、漏洩や学習に使われる心配がありません。
+            Take control of your documents, smartly and safely. Experience real value in summarization, instant answers, and the flexibility of advanced AI—all while knowing your data stays secure. Let’s redefine how you interact with information!
+
+        Transcription   - 音声の文字起こし
+            Transform your audio data into actionable insights with our Transcription feature. This intuitive tool converts oral explanations, customer interactions, and any spoken content into easily digestible text data, enabling you to save, summarize, and analyze information effortlessly. Whether you're a researcher, sales professional, our transcription service ensures nothing gets lost in translation.
+            Key Features:
+            - Accuracy  - 正確性
+                Accurately convert speech to text even in the presence of background noise and other sounds to ensure your transcriptions are as clean and clear as the spoken word.   - ノイズや他の音声が入っていても正確に文字に変換することが可能です。
+            - AI-Powered Natural Language Processing   - 文字起こし
+                Our transcription engine is powered by natural language processing (NLP), allowing it to understand context, recognize complex language structures, and preserve the original meaning and intent of the spoken words. This results in saved text that is not just accurate but also readable and coherent.
+            - Instant Outputs
+                The transcription automatically saves its outputs allowing instantly integrating into your workflo
+
+        Data Extraction - データの抽出
+            Discover the power of Data Extraction, our cutting-edge feature designed to transform your PDFs and images into structured, actionable data. Gone are the days of manual data entry and guesswork. With our advanced technology, you can extract only the data you need, exactly when you need it.
+            - Pinpoint Accuracy: 
+                Our feature employs Optical Character Recognition technology to recognize and extract text from PDFs and images with remarkable accuracy. We ensure you get the precise data you're looking for, every time.
+            - Customizable Data Extraction: 
+                Set prompts to guide the extraction process, allowing for detailed recognition. Tailor your prompts to extract only the specific data you require, eliminating irrelevant information and saving your time and effort.
+            - Image and Table Extraction: 
+                Our feature doesn't stop at text. It can also recognize and extract data from tables, lists, and even images, making it an all-in-one solution for your data extraction needs. Whether it's a complex chart, a list of numbers, or a table of data, we've got you covered.
+            Unleash the power of your documents with precision data extraction. Transform your workflow, automate your data entry, and uncover hidden insights – all with our advanced, customizable Data Extraction feature.
+        
+        Rag Chat    - RAGチャット
+            Your ultimate tool for turning vast amounts of data into a cohesive, searchable knowledge base. This feature allows you to create a centralized repository of information tailored to your specific needs. Say goodbye to scattered data and hello to organized insights!  - 与えたデータに対する専門的な知識を持たせることができるチャットAIです。資料付きチャットとの違いは、与えられるデータの量です。複数のファイルを一つのナレッジベースとして記憶させることで、膨大な量から関連した情報を要約、または検索することができます。専属の専門家としてお役に立ちます。
+            - Sealmess data integration
+                Easily upload multiple files and create your knowledge base with a single click. No advaned skills are needed, fully utilize out strong tool without any concern.
+            -Summarization
+                Rag Chat uses advanced natural language processing (NLP) to summarize the content of your uploaded files. This ensures you get the key takeaways without having to read through every document.
+                Tailor the summarization process to your needs with your command. Prompt the desired summary length or specify keywords to focus on.
+            - Accuracy  - 正確性
+                Once your knowledge base is set up, ask Rag Chat questions, and it will provide accurate answers based on the information contained within your uploaded files.
+                As you add more files to your knowledge base or update existing ones, Rag Chat adapts and improves its understanding of your data.
+            Transform scattered data into a cohesive knowledge base, and unlock the full potential of your information.
+
+        Translation - 翻訳
+            Break down language barriers with our advanced AI-based Translation feature. Transform the given text into your desired language. Experience a new level of linguistic accuracy with our AI-driven approach, designed to deliver translations that are not just word-by-word, but contextually fluent.
+            - Contextually Understanding
+                Our AI understands the meaning behind words, capturing the essence of the original text. It takes into account the context, idioms, and nuances, ensuring the translated text is accurate, coherent, and culturally appropriate.
+                Unlike rule-based systems, our AI doesn't translate word-by-word, preserving the original meaning and intent.
+            - Styles
+                Choose from various translation styles to match your needs – from formal and professional to casual and conversational. Available styles are: Casual, Business, Formal, Technical, Journalistic, Educational-casual, Academic-presentation
+            - Available Languages: English, Japanese, Chinese, Korean, Spanish, French, German, Italian, Dutch, Hindi, Arabic, Portuguese, Polish   - 翻訳可能言語: 英語、日本語、中国語、韓国語、スペイン語、フランス語、ドイツ語、イタリア語、オランダ語、ヒンディー語、アラビア語、ポルトガル語
+            Our AI-based translation feature opens new opportunities for clear, effective, and engaging communication. Try it today and experience the difference!
+
+
+
+        Package Software    - パッケージソフトウェア
+            Imagine having the power of generative AI at your fingertips, but without the usual concerns of data privacy and security. With our Package software, you're in control, as it's designed to be installed within your own data center or private cloud. This means your confidential information and personal data never leave your local environment, keeping your most sensitive data under your watchful eye at all times.             
+            - Main Features - 主な機能
+                Predictive Analytics: Ever wished you could see into the future? Our predictive analytics module makes that a reality. By identifying patterns and trends in your historical data, it generates accurate forecasts, allowing you to make data-driven decisions that anticipate, not just react to, market shifts. Say goodbye to guesswork and hello to confident, proactive strategy.   - 予測分析: データの傾向と将来の予測に基づいて、意思決定を行います。
+                Natural Language Processing (NLP): Data comes in many forms, and text data is often the most revealing. Our NLP capabilities enable you to extract hidden insights from unstructured text data. By analyzing customer reviews, social media posts, and news articles, you can gain a deeper understanding of customer sentiment, market trends, and competitor activities. It's like having a team of analysts constantly mining your data for valuable insights. - 自然言語処理: ユーザーの感情や市場動向に関する深い洞察を得るために、テキストデータを分析します。
+                Machine Learning Algorithms: AImagine having a dedicated team of data scientists working tirelessly to improve your models' accuracy. That's essentially what our machine learning algorithms do. They automatically learn from your historical data, identifying complex patterns and relationships that you might miss. As they process more data, they get smarter, continuously enhancing your predictive models and delivering more accurate, reliable insights.    - 機械学習アルゴリズム: 歴史的データから自動的に学習し、時間とともに精度を向上させます。
+                Real-Time Data Processing: In today's fast-paced business environment, speed is as important as accuracy. Our real-time data processing capabilities allow you to analyze live data feeds instantly, providing you with immediate insights. Whether you're monitoring KPIs, tracking system performance, or detecting anomalies, our real-time analytics ensure you're always one step ahead.    - リアルタイムデータ処理: リアルタイムデータストリームを迅速に分析し、瞬時の洞察を得ます。
+            - Security and Scalability  - セキュリティと拡張性
+                Security and scalability are at the heart of our Customizable Generative AI Packages. Our software has been built with robust security measures to protect your sensitive data. Additionally, it is designed to easily scale according to your business needs.  - セキュリティと拡張性こそが、生成AIパッケージの核です。パッケージは機密データを保護するため強固なセキュリティ対策を講じて設計されています。加えて、要件に合わせて柔軟に拡張することも可能で、最小限のコストで最大限の利益を得ることができます。
+            - Integration Support  - 導入とサポート
+                We understand that implementing new technology can be daunting. That's why we offer comprehensive support and guidance throughout the entire process. Our team of experts will ensure a smooth installation and provide ongoing assistance as needed.   - 新しい技術を導入することは、確かに難しいことです。その為、私たちは導入全般にわたって、包括的なサポートとガイダンスをご提供いたします。私たちの専門チームが、スムーズな導入を支援すると共に、必要に応じて継続的なサポートを行います。
+            No more worries about data breaches or unauthorized access. With Package software, you're not just harnessing the power of generative AI, you're doing so securely, responsibly, and on your terms. It's AI done right, for those who refuse to compromise on security and control.
+
+        Secure GenAI SaaS   - SaaSサービス
+            Discover the power of customization with our Generative AI SaaS, designed to seamlessly integrate AI into your business applications. We understand that every organization is unique, which is why we empower you to select the specific features and capabilities that align with your business needs. Focus on your core competencies while we handle the AI integration, ensuring you get the most out of your investment.    - 私たちのSaaSサービスはユーザーそれぞれに専用の環境を設計し、完全に管理されたサービスを提供します。ユーザー専用環境を使うことで、インフラの管理を私たちに任せ、生成AIの力の活用することだけに集中することができます。
+            - Support   - サポート
+                Our dedicated team of experts takes care of the entire AI environment. From hardware procurement to software updates, security enhancements to system maintenance, we've got you covered. Think of us as your AI concierge, ensuring your AI integration experience is smooth and hassle-free.   - エキスパートチームはハードウェア、ソフトウェア更新、セキュリティ、そして保守といった、サービスに関するすべての側面に対応可能です。
+            - Flexible Contract Terms   - 柔軟性
+                We believe in offering flexible solutions that cater to businesses of all scales. Whether you're a lean startup seeking an affordable AI solution or an established enterprise looking for a scalable AI integration, we've got you sorted. Our flexible contract terms ensure that you get an AI solution that fits both your budget and your specific business requirements.    - 私たちは、あらゆる規模、業界に受け入れられるよう、柔軟な契約条件をご提案します。スタートアップ企業から大手企業まで、それぞれの予算と要件を満たすようなソリューションを提供します。
+            Join the AI Revolution with Secure GenAI SaaS  
+                Embrace the future of business applications with our secure, customizable, and flexible Generative AI SaaS. Say goodbye to one-size-fits-all solutions and hello to AI integration tailored just for you. Experience the difference with Secure GenAI SaaS today.

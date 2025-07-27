@@ -1,0 +1,280 @@
+Navbar      Home        - ホーム
+            Product     - 製品
+                Generative AI Portal    - 生成AIポータル
+                Package Software    - パッケージソフトウェア
+                Secure dedicated GenAI SaaS - 専用環境SaaS
+            Services    - サービス
+            About Us    - 私たちについて
+            Language    - 言語
+
+            QAI Portal  - QAIポータル
+
+Hero Header     INSIGHT. AUTOMATE. EXCEL.   - 生成AIで次のステップへ
+                Explore     - もっと知る
+                Watch Video - 動画を見る
+
+QualityAI   
+            Unleash the power of Generative AI technology locally for your business!    - ビジネスにローカル生成AIの力を解き放つ
+            Empower your team with our versatile Generative AI platform, designed to streamline tasks, boost productivity, and drive innovation!    - 様々な機能を搭載した生成AIプラットフォームで、生産性を向上し、新たなイノベーションを実現しましょう
+            Quality AI aims to democratize access to Generative AI technology.  - クオリティAIは、生成AI技術へのアクセスの民主化を目指しています
+            We offer and support platforms that provide access to Open Source Generative AI technology within your own company environment. The data never leaves your company premises, so you can use Generative AI without risk or concern of data exfiltration. - 生成AI基盤をオープンソースで提供することで、データを手元に留めておくことができます。そのため、データ流出を懸念することなく、生成AIを活用することができます。
+            Quality AI: Your gateway to secure, private, affordable Generative AI!  - クオリティAI: セキュアでプライベートな生成AI活用への第一歩
+            We provide private, secure, and generative AI solutions for businesses. -  ローカルで展開されるセキュアな生成AIソリューションを提供します
+            Get Started Today: Sign up for our early access program and experience the power of Generative AI firsthand.    - 早期アクセスに登録して生成AIの力を体験できます
+            Lets discuss your specific needs and how our Generative AI platform can revolutionize your workflow    - 生成AI基盤を用い、どのように業務変革ができるのか、私たちにご相談ください。
+
+Featured Services   - 主要製品
+            Quality AI Portal   - クオリティAIポータル - イザナギ
+                Easily access to multiple purpose AI with user-friendly UI. - 様々な生成AI機能を一つの画面で利用できるポータルサイト
+
+            Package Software    - パッケージソフトウェア
+                Customizable AI packages tailored to your needs - ニーズに合わせてカスタマイズ可能な生成AIパッケージ
+
+            Secure GenAI SaaS   - セキュアなSaaSサービス
+                Generate AI services to drive your business growth - 安全な生成AIサービスで業務の効率化
+
+
+features
+            Quality AI Chat - クオリティAIチャット
+                Chat-like AI can respond any question in real time. Private platform prevent the leak of confidential information.  - 生成AIを対話形式で利用できます。機密情報を入力しても外部に流出することはありません。
+
+
+            Chat With Documents - 資料付きチャット
+                Extracts and provides summary and answers from the uploaded document.   - アップロードされた資料を基に、要約をしたり、内容について対話形式で回答することができます。
+
+            Transcription   - 音声の文字起こし
+                Experience accurate transcription from your audio-even in the presence of background noise. - 音声データから文字起こしをします。ノイズやほかの音声が入っていても正確に文字に変換します。
+
+            Data Extraction - データの抽出
+                Extract valuable data from PDF documents and images with our advanced data extraction tool. - 高度なデータ抽出ツールを用いることで、PDFや画像データから必要なデータだけを抽出できます。
+
+            Rag Chat    - RAGチャット
+                Enhance your Generative AI workflows with our RAG capabilities. Connect your platform to your knowledge base and retrieve relevant information to generate more accurate and context-aware responses.   - 必要なナレッジベースを生成AI基盤に接続し、より正確で関連度の高い情報を取得しましょう。
+
+            Translation - 翻訳
+                Break language barriers with our accurate translation service. Seamlessly convert text from one language to another.    - テキストを別の言語に素早く翻訳します。正確な翻訳で言語の壁を打ち破ります。
+
+
+
+Check our services  - サービス
+            System integration support  - 導入サポート
+                Seamlessly integrate our generative ai services into your existing systems and applications - 既存のシステムやアプリケーションへ生成AIを導入するサポートをいたします
+
+            Professional Services   - エキスパートチームによるサポート
+                expert developer support for your ai system builds  - 開発のエキスパートがニーズに合わせてAIの構築をサポートいたします
+
+            Consulting Services - コンサルティングサービス
+                expert guidance for a successful generative ai integration  - 生成AIの導入のガイダンスを提供いたします
+                
+                
+            24/7 support by experts - 24時間体制のサポート    
+                Our experts support post-deployment 24/7 to minimize downtime. エキスパートチームが365日24時間体制でどんなトラブルにも対応します。
+
+
+Quality AI Teams Motivation - Team Motivation #I think English is fine for this part
+
+
+
+Contact Feel free to    - お問い合わせ
+            Address - 所在地
+            Call Us - TEL
+            Email Us    - Eメール
+
+
+
+Product page
+            Quality AI Portal   Izanagi - イザナギ
+                IZANAGI: A portal site where you can access all the features of generative AI with a single click. It introduces dedicated models for each function, and you can also choose models tailored to your needs. The intuitive and user-friendly UI allows anyone to fully utilize the power of AI.    - 生成AIのすべての機能にワンクリックでアクセス可能なポータルサイト「イザナギ」。それぞれの機能に特化したモデルを導入しており、さらにニーズに合わせたモデルの選択も可能です。直感的な操作ができるUIにより、誰もが最大限AIの力を使いこなすことができます。
+
+            Feature - 機能説明
+
+            Quality AI Chat - クオリティAIチャット
+                You can have chat-like conversation with a chatbot. Utilizing natural language processing and machine leaning capabilities, our chat AI will provide immediate support and enhance productivity.    - チャットボットと対話形式で会話ができます。言語処理技術と機械学習能力を活かしたチャットAIを活用し、即時サポートで生産性を向上させます。
+                - Model Selection   - モデルの選択
+                    Multiple LLM models are available and can switch models instantly based on the situation and needs. Even in the middle of conversation. - 複数のLLMモデルを実装しており、状況やニーズに応じて使用するモデルを即座に切り替えることが可能です。
+                - Security  - セキュリティ
+                    Private platform prevent the leak of confidential information.    - 推論がすべてローカルで行われるため、データ漏洩のリスクがありません。
+
+            Chat With Documents - 資料付きチャット
+                Provides summary and andwers from the uploaded document. PDFs and presentation slides could be uploaded.    - チャットAIに資料をアップロードすることで、資料を基に回答したり、要約をすることができます。読み込ませる資料はテキストファイルである必要がないため、PDFやプレゼン資料もご利用いただけます。
+                - Model Selection   - モデルの選択
+                    This feature has multiple LLM models available. - こちらの機能も複数のLLMモデルを実装しており、簡単に切り替えることが可能です。
+                - Security  - セキュリティ
+                    Confidential or personal informations could be uploaded without a risk of leakage or use for leakage.   - 社内情報や機密情報、個人情報をアップロードしても、漏洩や学習に使われる心配がありません。
+
+
+            Transcription   - 音声の文字起こし
+                Convert audio data into text data. It is useful for saving and summarizing data from oral explanations and customer interactions.   - 音声データを文字に変換してテキストデータとして出力します。要約機能などと組み合わせれば、議事録の作成なども簡単に行えます。
+                - Accuracy  - 正確性
+                    Accurately convert speech to text even in the presence of noise and other sounds.   - ノイズや他の音声が入っていても正確に文字に変換することが可能です。
+                - AI Modification   - 文字起こし
+                    AI transcribes into text based on natural language processing, so the text is saved as a more accurate and readable document.   - ただ文字にして書き出すだけではなく、AIが自然言語をもとに文字起こしをするので、より正確で読みやすい文面として保存されます。 #Need to check with Mr.Brent
+
+            Data Extraction - データの抽出
+                Extract data from PDFs and images. The prompt could be set, allowing for detailed recognition so you can extract only the needed data precisely. PDFや画像からデータを抽出し、必要な情報をテキストとして出力します。プロンプトを入力することができ、細部まで認識することができるので、正確に必要なデータだけを抽出することができます。
+
+            Rag Chat    - RAGチャット
+                RAG Chat will be your dedicated specialist for your needs. By giving multiple files as a single knowledge base, you can summarize and search for relevant informaion from a huge amount of data.  - 与えたデータに対する専門的な知識を持たせることができるチャットAIです。資料付きチャットとの違いは、与えられるデータの量です。複数のファイルを一つのナレッジベースとして記憶させることで、膨大な量から関連した情報を要約、または検索することができます。専属の専門家としてお役に立ちます。
+                - Accuracy  - 正確性
+                    The answers are generated based on a knowledge base. As long as there are no errors in prompt or the data given, the answers are highly accurate. ナレッジベースをもとに回答を生成するので、プロンプトや与えたデータに誤りがない限り、正確な答えを出力します。
+
+            Translation - 翻訳
+                The given text will be translated into selected language with the chosed style. AI-based translation allows for contectual translation, rather than just direct translation. テキストを別の言語に翻訳します。翻訳スタイルを選択し、スタイルにあった言葉選びで出力します。AIによる翻訳により、ただの直訳ではなく、文脈にあった翻訳が可能です。
+                - Abailable Languages   - 翻訳可能言語: 英語、日本語、中国語、韓国語、スペイン語、フランス語、ドイツ語、イタリア語、オランダ語、ヒンディー語、アラビア語、ポルトガル語
+                - Styles    - スタイル: カジュアル、ビジネス、フォーマル、技術的、ジャーナリスティック、教育的カジュアル、学術的プレゼンテーション
+
+
+            Package Software    - パッケージソフトウェア
+                Package software is a generative AI package that can be installed in your own data center or private cloud. The confidential information and personal data never leave your local environment, providing complete data control and peace of mind.   - パッケージソフトウェアは、自社データセンターやプライベートクラウド上でインストール可能な生成AIパッケージです。このため、社内情報や、個人情報を入力したとしても、データがローカル環境から離れることがなく、完全なデータの制御と安心を提供いたします。
+                
+                - Main Features - 主な機能
+                    Predictive Analytics: Make informed decisions based on data trends and future projections.   - 予測分析: データの傾向と将来の予測に基づいて、意思決定を行います。
+                    Natural Language Processing (NLP): Analyze text data to gain deeper insights into customer sentiment and market trends. - 自然言語処理: ユーザーの感情や市場動向に関する深い洞察を得るために、テキストデータを分析します。
+                    Machine Learning Algorithms: Automatically learn from historical data to improve accuracy over time.    - 機械学習アルゴリズム: 歴史的データから自動的に学習し、時間とともに精度を向上させます。
+                    Real-Time Data Processing: Quickly analyze live data feeds for instant insights.    - リアルタイムデータ処理: リアルタイムデータストリームを迅速に分析し、瞬時の洞察を得ます。
+                - Security and Scalability  - セキュリティと拡張性
+                    Security and scalability are at the heart of our Customizable Generative AI Packages. Our software has been built with robust security measures to protect your sensitive data. Additionally, it is designed to easily scale according to your business needs.  - セキュリティと拡張性こそが、生成AIパッケージの核です。パッケージは機密データを保護するため強固なセキュリティ対策を講じて設計されています。加えて、要件に合わせて柔軟に拡張することも可能で、最小限のコストで最大限の利益を得ることができます。
+                - Integration Support  - 導入とサポート
+                    We understand that implementing new technology can be daunting. That's why we offer comprehensive support and guidance throughout the entire process. Our team of experts will ensure a smooth installation and provide ongoing assistance as needed.   - 新しい技術を導入することは、確かに難しいことです。その為、私たちは導入全般にわたって、包括的なサポートとガイダンスをご提供いたします。私たちの専門チームが、スムーズな導入を支援すると共に、必要に応じて継続的なサポートを行います。
+
+
+            Secure GenAI SaaS   - SaaSサービス
+                Our Customizable Generative AI Packages offer a unique and flexible approach to AI-powered business application integration. You choose the specific features and capabilities that best suit your business requirements, allowing you to focus on what truly matters for your business.    - 私たちのSaaSサービスはユーザーそれぞれに専用の環境を設計し、完全に管理されたサービスを提供します。ユーザー専用環境を使うことで、インフラの管理を私たちに任せ、生成AIの力の活用することだけに集中することができます。
+                - Support   - サポート
+                    Our team of experts take care of all aspects of the environment, including hardware, software updates, security, and maintenance.   - エキスパートチームはハードウェア、ソフトウェア更新、セキュリティ、そして保守といった、サービスに関するすべての側面に対応可能です。
+                - Flexible Contract Terms   - 柔軟性
+                    We offer flexible contract terms to accommodate businesses of all sizes and industries. Whether you're a small startup or a large enterprise, we have a solution that fits your budget and requirements.    - 私たちは、あらゆる規模、業界に受け入れられるよう、柔軟な契約条件をご提案します。スタートアップ企業から大手企業まで、それぞれの予算と要件を満たすようなソリューションを提供します。
+
+support
+            System integration support  - 導入サポート
+                Leverage our specialized expertise to seamlessly integrate generative AI into your existing systems and applications. Phased implementation to minimize downtime and utilize our generative AI bespoke solutions for industries like healthcare, finance, technology, manufacturing, logistics and retail, plus process automation and data-driven insights.   - 既存のシステムやアプリケーションへ、私たちの生成AIを導入するサポートをいたします。ヘルスケア、金融、IT、製造業、運送業、小売業などすべての業界にソリューションを提供いたします。最小限のダウンタイムでの段階的な導入により、最高のAIエクスペリエンスを最速でご利用いただけます。
+
+
+            Professional Services   - エキスパートチームによるサポート  #派遣てきな顧客のもとに行き、サポートする
+                AI Architecture, Machine Learning, and engineering expertise are here for support after the integration. Optimiseing will allow the maximum utilization of generative AI.   - アーキテクチャ、機械学習、エンジニアリングなどのAI技術に精通したエキスパートチームが導入後もサポートいたします。展開後の最適化により、最大限生成AIの力を利用できるようにサポートします。
+                
+
+            Consulting Services - コンサルティングサービス      #顧客が当社に来て何もわからない場合にコンサルして何ができるか相談する
+                コンサルティングサービスを利用して、生成AIへの道のりへ踏み出しましょう。アドバイザーが私たちの技術を最大限活用する方法を分析します。
+
+                AIに興味はあるけど、よくわからない… どう業務に活かせるかわからない… どれくらい効率化できるのか不安… といった疑問などに、エキスパートチームがお答えします。お問い合わせフォームよりお気軽にご連絡ください。
+
+
+            24/7 support by experts - 24時間体制のサポート    
+                Our experts support post-deployment 24/7 to minimize downtime.  - エキスパートチームが365日24時間体制でどんなトラブルにも対応します。
+
+
+About Us
+            Our mission - 私たちのミッション
+                At Quality AI, we believe in the transformative power of Generative AI technology and its potential to revolutionize businesses and industries alike. \
+                Our mission is to democratize access to this game-changing technology, making it available and accessible to businesses and individuals of all sizes and backgrounds. \
+                We are committed to enabling our customers to make a seamless transition to this new technology paradigm, empowering them to unlock new opportunities, streamline processes, and gain a competitive edge in their respective markets. \
+                Join us on this exciting journey as we redefine the future of innovation and progress together.
+                - 私たちQuality AIは、生成AIには大きな変革をもたらす力があり、ビジネスや産業に大革新を引き起こす可能性があると信じています。\
+                私たちの使命は、この革新的な技術へのアクセスを民主化するために、あらゆる規模や背景を持つ個人や企業が生成AIにアクセスでき、利用できるようにすることです。\
+                お客様がこの新しい技術パラダイムにシームレスに移行できるよう、新たな機会に出会う手助けをし、プロセスを合理化し、それぞれの市場での競争力を高めることを目指しています。\
+                私たちと共に、この革新的な旅路で未来を再定義しましょう。
+
+            QualityAI Team  - チーム
+                Chairman    - #English should be ok
+                Connect - 
+                Special Advisor - 
+                Old Guy - 
+                Senior AI Developer - 
+                AI Developer    - 
+                UI Developer    - 
+
+            Contact Us  - お問い合わせください
+                Address - 所在地
+                Call Us - TEL
+                Email Us    - Eメール
+
+                Your Name   - お名前
+                Your Email  - Eメール
+                Subject - 件名
+                Message - お問い合わせ内容
+
+            Career  - 採用  #Need to ask Brent san about this or copy from qualitysoft?
+                We are seeking partners who will collaborate to create new value together. While enjoying contributions to society and team growth, we hope to work with individuals who can embrace each day filled with rewarding joy and purposeful meaning. Your application is warmly awaited.     - 私たちは、共に新しい価値を創出していく仲間を募集しています。私たちのミッションに興味があり、社会への貢献とチームでの成長を楽しみながら、毎日を実りある楽しさと意義で満たせる、そんなあなたのご応募をお待ちしています。
+
+                Job Description - 募集項目
+                    Roles   - 職種:
+                            AI Engineer    - エンジニア
+                                Develop AI systems throughout their lifecycle, from data analysis and model construction to system integration and deployment.  -データ分析からモデル構築、システム統合・導入に至るまで、ライフサイクル全体を通してのAIシステムの開発を行います。
+                            Infrastructure Enginees - インフラエンジニア
+                                By designing, implementing, and monitoring robust generative AI systems, we create an environment that allows our AI platform to perform at its maximum level.        - 堅牢性の高い生成AIシステムの設計、導入、パフォーマンス監視を行うことで、当社のAI基盤が最大限のパフォーマンスを発揮できる環境を構築します。
+                            Sales Force - 営業
+                                Through sales activities, we aim to strengthen relationships with our customers, streamline operations, and boost productivity.   - 当社のAI基盤の営業活動を通じて、顧客との関係強化、業務の効率化、生産性の向上を目指します。
+
+                    Qualifications & Experience  - 募集対象:
+                            The communication will be done in English    - 英語でのコミュニケーションが可能な方
+
+                    Job Location    - 勤務地: 
+                            Shirahama HQ (1701-3 Naka, Shirahama, Nishimuro District, Wakayama)    - 白浜本社(和歌山県西牟婁郡白浜町中1701-3)
+                            Sendai Branch (Sendai-Jozenji Bldg 3 Chome−4−33, Kokubuncho, Aoba Ward, Sendai, Miyagi) - 仙台支社(宮城県仙台市青葉区国分町3-4-33 仙台定禅寺ビル4F)
+                            Matsumoto R&D Center (Kagami Building, 5f, 3-chōme-3-16 Chūō, Matsumoto, Nagano)    - 松本研究開発センター(長野県松本市中央3-3-16 松本蔵の街ビル5F)
+
+                    Employment Status   - 雇用形態:
+                            Regular Employment  - 正社員
+                            First 3 month will be probationary period   - ※入社後3か月間は試用期間となります
+
+                    Salary  - 給付:   
+                            <Starting Salary/Monthly Basic Salary>＜初任給/月額基本給＞
+                            Postgraduate - 大学院卒
+                            260,000円
+                            University Graduate・Bachelor・4 years of vocational school     -大卒・高専（専攻科）・専門（4年制）卒
+                            240,000円
+                            Associate Degree・2 years of vocational school    - 高専（本科）・専門（2年制）・短大卒
+                            220,000円
+
+                            Overtime pay will be paid separately.   - ※時間外勤務手当は別途全額支給
+                            Bonuses vary depending on rank and performance. - ※賞与については、等級および業績により変動あり
+                            Other retirement benefits available (after 3 years of employment)   - ※その他退職金制度あり(入社3年以降)
+
+                            Salary Revision - ＜給与改定＞
+                            Once a year - 年1回
+
+                            Bonus   - ＜賞与＞
+                            Twice a year (Jun and December)   - 年2回（6月・12月）
+
+                    Allowance   - 諸手当:
+                            Overtime allowance (Paid in full)   - 時間外勤務手当（全額支給）
+                            Commuting allowance is paid in accordance with company regulations (1.5 km or more one way) - 通勤手当は会社規定により支給（片道1.5km以上）
+                            Toll roads are not covered; paid within the tax exemption limit - ※有料道路は対象外、非課税限度額の範囲内で支給
+
+                    Working Hour    - 勤務時間:
+                            Flextime    - フレックスタイム制
+                            Standard Working Hours: 8 hours per day (including a 60-minute break)   - 標準労働時間：1日あたり8時間（休憩60分）
+                            Coretime: 10:00～15:00 (9:00～14:00 on Monday) - コアタイム：10:00～15:00（月曜日のみ9:00～14:00）
+
+                    Holidays    - 休日・休暇:
+                            Don't need to write this for Engslih    ・年間休日125日以上
+                            ・2 days per week (Saturday, Sunday), Public Holidays   ・完全週休二日制（土日）、祝日
+                            ・Summer, End of Year, New Year Holiday     - ・夏季/年末年始休暇
+                            ・10 days of annual leaves are given upon start working  ・入社時に有給休暇付与（10日）
+                            ・Special Leave - ・特別休暇
+                            ・Maternity/Paternity Leave, Childcare/family-case Leave  ・産前産後休暇、育児/介護休業
+
+                    Employee Welfare    - 福利厚生:
+                            ・Fully covers social insurance ・各種社会保険完備
+                            ・Retirement benefits (after 3 years of employment) ・退職金制度あり（勤続3年以上）
+                            ・Kanto IT Software Health Insurance Welfare Support ・関東ITソフトウェア健保の福利厚生補助利用可能
+                            ・Riro Club (Outside of company welfare services)   ・リロクラブ（社外福利厚生サービス）
+                            ・Financial assistance for internal club activities and events  ・社内クラブ活動、イベント活動への費用補助
+                            ・Employee Recognition System   ・社員表彰制度
+                            ・Qualification Bonus・資格取得報奨制度
+                            ・Personal Development Assistance   ・自己啓発助成金制度
+
+                    Other Allowance - その他制度
+                            ・Company-Leased Housing System・借上げ社宅制度
+                            ・Housing Allowance・家賃補助制度
+                            ・Relocation Allowance・引越し費用補助制度
+                            ・Setting-in Allowance・支度金制度あり
+
+                    How to Apply    - 応募方法:
+                            Please prepare required documents and contact us from the inquiry form or email hr-contact@qualityai.jp with any question.   - 提出書類をご準備の上、お問い合わせからご連絡ください。
+                            Required Documents  - <提出書類>
+                                ・Entry Sheet   ・エントリーシート
+                                ・Resume    ・履歴書（写真添付）
+                                ・Graduate Certificate  ・卒業（修了）見込証明書
+                                ・Academic Transcript ・成績証明書
