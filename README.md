@@ -15,9 +15,8 @@ Quality AI is an innovative project focused on leveraging artificial intelligenc
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
-3. [Usage](#usage)
-4. [Installation](#installation)
-5. [System Architecture](#system-architecture)
+3. [Installation](#installation)
+4. [System Architecture](#system-architecture)
 
 ## Introduction
 Quality AI is designed to make a positive impact through AI. This project encompasses a range of services and tools, including chatbots, translation services, and more.
@@ -26,15 +25,11 @@ Quality AI is designed to make a positive impact through AI. This project encomp
 - Python 3.x
 - Git
 
-## Usage
-1. Clone the repository: `git clone http://w16-66-155.tail16924b.ts.net/qualityai-devs/quality-ai-website.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python app.py`
 
 ## Installation
 ### Step 1: Clone Repository
 ```bash
-git clone https://gitlab.com/your-username/your-project-name.git
+git clone http://w16-66-155.tail16924b.ts.net/qualityai-devs/quality-ai-website.git
 ```
 ### Step 2: Install Dependencies
 ```bash
