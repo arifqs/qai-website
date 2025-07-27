@@ -27,7 +27,7 @@ Quality AI is designed to make a positive impact through AI. This project encomp
 - Git
 
 ## Usage
-1. Clone the repository: `git clone https://gitlab.com/your-username/your-project-name.git`
+1. Clone the repository: `git clone http://w16-66-155.tail16924b.ts.net/qualityai-devs/quality-ai-website.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the application: `python app.py`
 
