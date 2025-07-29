@@ -149,8 +149,60 @@ Prioritizing the stability, reliability, and scalability of infrastructure and c
 Interest in new technologies and methodologies and willingness to learn and practice them.
 
 
+【インフラエンジニア】
 
-perations
+1. 職種名：
+インフラエンジニア（生成AI専門）
+
+2. 仕事内容：
+生成AIの基盤設計・構築・運用改善を主な業務とし、以下のタスクを実施します。
+
+■インフラ設計・構築
+AWS上で生成AIの高可用性アーキテクチャを設計・実装（IAM・EC2・S3・EKS／ECS・RDS・API GW・CDK／CloudFormationなど）。
+容量設計やコスト最適化を考慮したインフラ環境の構築。
+Docker/Kubernetesを活用したサービスのコンテナ化・ オーケストレーション・環境管理。
+サービスメッシュアーキテクチャの理解。
+
+■運用管理・監視
+システム安定稼働のための監視ツール（Prometheus、Grafana、CloudWatchなど）設置とログ分析。
+パフォーマンスモニタリングと課題の特定・改善策検討。
+セキュリティパッチ適用と脆弱性対策の実施。
+
+■最適化・自動化
+Github、Terraform、AnsibleなどIaC（Infrastructure as Code）によるインフラ自動化のためのツール開発。
+生成AIの処理速度向上・スケーラビリティ強化を目的とした基盤改善。
+ベクトル DB、OpenSearch、PostgreSQLやRDBMSの高度なチューニング（クエリ最適化、インデックス設計など）。
+
+■協業・連携
+AI基盤とモデル開発チームと連携し、モデルのリソース要求変更に応じたインフラ要件設計。
+DevOpsツール（Jenkinsなど）とプロセス推進を目的とした開発/運用体制の構築。
+
+3. 必須条件：
+Linux環境での高度な運用経験（コマンドライン操作、トラブルシューティング）。
+Bashスクリプト作成能力（自動化脚本や定期タスクの開発）。
+Docker/Kubernetesの実務経験（サービスコンテナ化、 オーケストレーション環境構築）。
+AWSプラットフォームの深く理解（EC2/ECS/RDS/S3/IAM/VPCなどサービスの活用経験）。
+RDBMS（特にPostgreSQL）の運用・チューニング経験（トランザクション処理、分散環境設計など）。
+Ansibleを使ったアプとインフラ構成の自動デプロイ。
+ネットワーク・ファイアウォールの設計と実装。
+論理的問題解決能力（複雑なシステム課題の分析及び解決策提示）。
+英語による技術文書の読み書き能力。
+
+4. 歓迎条件：
+クラウドインフラの設計・運用に関する知識を有していること
+インフラ自動化ツール（例：Terraform）に関する知識を有していること
+監視・ログ収集システムの運用に関する知識を有していること
+大規模言語モデル技術や生成AIに関する知識を有していること
+
+5. 求める人物像：
+生成AIに関する高い関心と向上心を持つこと
+チームワークやコミュニケーションに優れ、柔軟に対応できること
+インフラの安定性や信頼性、拡張性を重視し、常に改善に向けた目標を設定すること
+新しい技術や手法に関心があり、自ら学び、実践すること
+
+
+
+Operations
 
 Job Title:
 Generation Operation Engineer
@@ -191,3 +243,152 @@ Responsibility and professionalism to support the operation of large-scale syste
 Ability to analyze monitoring data and promote operational efficiency. 
 Ability to quickly respond to operational process changes due to AI model updates. 
 Willingness to collaborate with development teams and data scientists to improve the overall service.
+
+【運用】
+
+1. 職種名
+生成オペレーションエンジニア
+
+2. 仕事内容
+■AIモデルの運用管理
+生成AI（大規模言語モデル・画像生成システムなど）の実運用時のモニタリング・パフォーマンス最適化
+実行時間・コスト削減のためのモデルチューニングやリソース管理
+
+■インフラ構築・管理
+-クラウド環境（AWS/GCP等）を活用したAIインフラの設計・構築・メンテナンス
+サービス安定化ためのHA/DR設計、セキュリティ対策
+
+■障害対応・改善提案
+AI生成結果の品質低下や予期せぬ挙動の迅速な分析・対応
+監視ツールによる異常検知システムの構築
+
+■運用プロセス改善
+作業自動化（CI/CDパイプライン構築、監視スクリプト開発）
+オペレーションガイドラインの整備とドキュメンテーション
+
+3. 必須条件
+■インフラ構築/運用経験
+AWS/Azure/GCP等のクラウドプラットフォームでの実務経験が3年以上
+
+■AIモデル運用実務経験
+機械学習/生成AIモデルのデプロイ後の運用環境構築経験
+
+■Linux/システム管理スキル
+システム構成管理ツール（Ansible等）やコンテナ技術（Docker/Kubernetes）の知識
+
+■トラブルシューティング能力
+ミッションクリティカルシステムの24時間365日対応に向けた課題解決力
+
+3. 歓迎条件
+■監視ツールの実務経験
+Prometheus/ElasticStack/Microsoft Sentinel等の監視ツール経験
+
+■AI/機械学習知識
+PyTorch/TensorFlow等のフレームワーク理解、推論パフォーマンス最適化経験
+
+■自動化パイプライン構築経験
+Jenkins/GitLab CI等によるCI/CDパイプライン構築実績
+
+■セキュリティベストプラクティス
+GDPR/個人情報保護法に対応したAIシステム設計経験
+
+4. 求める人物像
+責任 : 厳しいSLAを守るための責任感と、大規模システム運用を支えるプロ意識
+データ駆動力 : 監視データを分析して業務効率化を推進できる方
+変化対応力 : AIモデルの更新に伴う運用プロセス変更を迅速に対応できる方
+協働姿勢 : 開発チーム・データサイエンティストと連携し、サービス全体を改善する意欲
+
+Sales
+
+Job Title:
+Sales for Generative AI Solutions
+
+Job Description:
+Propose support for automation improvements, business efficiency, and the creation of new businesses using generative AI. We approach customers from various industries, including major corporations and startups.
+
+In collaboration with the technical team, analyze customer issues and specify ways to apply AI language models and generative AI. We will visualize the value of introduction through demonstrations and PoC (proof of concept).
+
+Regular follow-up and support for business transformation will be implemented to build long-term trust relationships. We will track changes in needs through post-implementation interviews and promote continuous upselling.
+
+Based on market trends and competitive analysis, optimize sales plans and conduct efficient activities using tools such as Salesforce.
+
+Required Qualifications and Skills:
+Business-to-business sales experience (3 years or more) 
+Especially sales experience in the IT and technology sector is essential
+
+Interest in and willingness to learn about AI and the IT industry 
+Actively grasp technology and market trends, and have an attitude that allows you to learn independently.
+
+High-level communication skills 
+To be applied in various situations, such as client negotiations and coordination with the technical team.
+
+Sales style that focuses on results 
+Self-directing from goal setting to achievement and having the determination to produce numbers.
+
+Preferred Qualifications and Skills:
+Basic knowledge of AI and machine learning (regardless of education) 
+Experience working for a foreign IT company or startup 
+Experience using sales support tools such as Salesforce and HubSpot 
+Business negotiations and literature research in English (TOEIC 800 points or more) 
+Creativity that allows you to come up with ideas yourself
+
+Ideal Candidate:
+A challenger who embraces change As the generative AI field is characterized by rapid technological innovation, adapting to unknown areas will become a daily routine. We seek personnel who can quickly acquire new tools and methods and propose them.
+A customer-centric mindset We prioritize solving fundamental problems by understanding the current state of society and industry, rather than focusing solely on technology.
+A collaborative attitude within a team We need a mindset that aims to solve problems across departments, including the technical team, sales department, and customers.
+A professional who asks "Why?" We seek personnel who will proactively consider and act on how generative AI can contribute to society through sales activities.
+
+【営業】
+
+1. 職種名
+生成AIソリューション営業職
+
+2. 仕事内容
+■新規・既存顧客への営業活動
+国内企業、自治体、公共機関を対象に、生成AIによる自動化改善・業務効率化・新規事業創出の支援を提案。
+大手企業やスタートアップなど、複数業種にわたる顧客へのアプローチを実施します。
+
+■技術的提案の強化
+技術チームと連携し、顧客の課題を分析し、AI言語モデルや生成式AIの適用方法を具体化。
+デモやPoC（概念実証）を通じて、導入の価値を可視化していただきます。
+
+■顧客関係の構築と維持
+中長期的な信頼関係を構築するため、定期的なフォローや業務変革のサポートを実施します。
+導入後のヒアリングからニーズの変化を把握し、継続的なアップセルを推進。
+
+■営業戦略の立案・実行
+市場動向や競合分析に基づき、営業プランを最適化し、Salesforce等のツールを活用した効率的な活動を展開します。
+
+3. 必須条件
+■BtoB Salesの実務経験（3年以上）
+特にIT・テクノロジー分野での営業経験は必須
+
+■AI・IT業界への関心や学習意欲
+技術や市場の動向を積極的に把握し、自ら学べる姿勢
+
+■高水準のコミュニケーション力
+クライアントとの商談・技術部隊との調整など多様な場面で発揮
+
+■結果を意識した営業スタイル
+目標設定から達成まで自走し、数字を生み出す意志力
+
+4. 歓迎条件
+AI・機械学習の基礎知識（学歴問わず）
+外資系IT企業やスタートアップでの勤務経験
+Salesforce・HubSpot等の営業支援ツールの利用経験
+英語での商談や文献調査（TOEIC 800点以上）
+自らアイデアを出していく創造性
+
+5. 求める人物像
+■変化を好む挑戦者
+生成AI分野は急速な技術革新が続くため、未知の領域への対応が日常化します。
+新しいツールや手法を素早く習得し、自ら提案できる人材を求めます。
+
+■顧客中心の思考
+技術だけにとらわれず、社会や業界の現状を理解し、本質的な課題解決を優先します。
+
+■チームで協創する姿勢
+技術チーム・営業部内・顧客と協力し、横断的な問題解決を目指すマインドが必須です。
+
+■「なぜ？」と自問するプロ
+営業活動を通じて、生成AIが社会にどう貢献するかについて自発的に考え、行動する人材を求めます。

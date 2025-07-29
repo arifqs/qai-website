@@ -16,6 +16,10 @@ urls = (
     "/career", "Career",
     "/product", "Product",
     "/services", "Services",
+    "/ai_engineer", "ai_engineer",
+    "/infrastructure_engineer","infrastructure_engineer",
+    "/operation_engineer", "operation_engineer",
+    "/sales", "sales",
     "/set_language", "SetLanguage"
 )
 
@@ -159,7 +163,52 @@ class Product:
         # Setup i18n
         setup_i18n()
         return render.product()
+class ai_engineer:
+    def GET(self):
+        # Check if language is being set via URL parameter
+        i = web.input()
+        if 'lang' in i and i.lang in SUPPORTED_LANGUAGES:
+            if set_user_language(i.lang):
+                raise web.seeother('/ai_engineer')
+        
+        # Setup i18n
+        setup_i18n()
+        return render.ai_engineer()
 
+class infrastructure_engineer:
+    def GET(self):
+        # Check if language is being set via URL parameter
+        i = web.input()
+        if 'lang' in i and i.lang in SUPPORTED_LANGUAGES:
+            if set_user_language(i.lang):
+                raise web.seeother('/infrastructure_engineer')
+        
+        # Setup i18n
+        setup_i18n()
+        return render.infrastructure_engineer()
+
+class operation_engineer:
+    def GET(self):
+        # Check if language is being set via URL parameter
+        i = web.input()
+        if 'lang' in i and i.lang in SUPPORTED_LANGUAGES:
+            if set_user_language(i.lang):
+                raise web.seeother('/operation_engineer')
+        
+        # Setup i18n
+        setup_i18n()
+        return render.operation_engineer()
+class sales:
+    def GET(self):
+        # Check if language is being set via URL parameter
+        i = web.input()
+        if 'lang' in i and i.lang in SUPPORTED_LANGUAGES:
+            if set_user_language(i.lang):
+                raise web.seeother('/sales')
+        
+        # Setup i18n
+        setup_i18n()
+        return render.sales()
 class Services:
     def GET(self):
         # Check if language is being set via URL parameter
