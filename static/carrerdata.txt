@@ -1,0 +1,193 @@
+AI Software Development Engineer
+
+Job Title:
+AI Software Development Engineer
+
+Job Description:
+Development, testing, and improvement of Generative AI (LLM, Image Generation, Speech Synthesis)
+
+General software development (back-end design & implementation, API development, deployment)
+
+Data Collection, Preprocessing, Annotation Design, and Implementation
+
+Optimization of AI model inference speed and performance improvement
+
+Project advancement through collaboration with other engineers and data scientists within the team
+
+Technical documentation maintenance
+
+Required Qualifications and Skills:
+Programming Skills
+Practical development experience in Python or similar languages (3+ years recommended)
+
+AI Development Experience
+Implementation experience with machine learning frameworks such as TensorFlow/PyTorch
+
+Problem-Solving Ability
+Ability to logically solve technical challenges
+
+Communication Skills
+Ability to effectively collaborate with the team and other departments
+
+Learning Drive
+Ability to continuously track technological trends in the AI field
+
+Preferred Qualifications and Skills:
+Development and operation experience of Generative AI (LLM, Diffusion Model)
+AI model deployment experience in cloud environments (AWS/GCP/Azure)
+Data pipeline construction and DevOps tool utilization experience
+Reading and replicating machine learning papers
+Development experience in natural language processing (NLP) or computer vision
+
+Ideal Candidate:
+Strong interest in AI technology and willingness to actively pursue the possibilities of Generative AI
+Ability to learn new technologies independently and apply them to work
+Willingness to challenge unknown issues and propose improvement measures
+Ability to collaborate with diverse members and contribute to the achievement of team goals
+Ability to adapt to technological advancements and enhance oneself
+
+【ソフトウェア開発エンジニア】
+
+1. 職種名
+生成AIソフトウェア開発エンジニア
+
+2. 仕事内容
+生成AI（大規模言語モデル、画像生成、音声合成など）の開発・テスト・改善
+ソフトウェア開発全般（バックエンド設計・実装、API開発、デプロイメント）
+データ収集・前処理・アノテーションの設計・実施
+AIモデルの推論速度最適化やパフォーマンス改善
+チーム内の他のエンジニアやデータサイエンティストとの協業によるプロジェクト推進
+技術ドキュメンテーションの整備
+
+3. 必須条件
+■プログラミングスキル
+Pythonや類似言語での実務開発経験（3年以上推奨）
+
+■AI開発経験
+TensorFlow/PyTorchなど機械学習フレームワークの実装経験
+
+■問題解決能力
+技術的課題を論理的に解決できる方
+
+■コミュニケーション能力
+チームや他部門と円滑に連携できる方
+
+■学習意欲
+AI分野の技術動向を継続的に追える方
+
+4. 歓迎条件
+生成AI（Large Language ModelやDiffusion Modelなど）の実際の開発・運用経験
+クラウド環境（AWS/GCP/Azure等）でのAIモデルデプロイ経験
+データパイプライン構築・DevOpsツールの活用経験
+機械学習論文のリーディングや再現実験の経験
+自然言語処理（NLP）やコンピュータービジョンの開発経験
+
+5. 求める人物像
+情熱：AI技術への強い興味や、生成AIの可能性に意欲的に取り組める方
+主体性：自走して新しい技術を学び、業務に活かせる方
+好奇心：未知の課題に挑戦し、改善案を提案できる方
+協調性：多様なメンバーと連携し、チーム目標の達成に貢献できる方
+継続的成長：技術進化に対応し、自身を高められる姿勢をお持ちの方
+
+
+Infrastructure Engineer
+
+Job Title:
+Infrastructure Engineer
+
+Job Discription:
+The main tasks are the infrastructure design, development, and operation improvement of generative AI, including the following:
+
+Infrastructure Design & Construction
+Design and implement highly available architectures for Generative AI on AWS (IAM, EC2, S3, EKS/ECS, RDS, API Gateway, CDK/CloudFormation, etc.).
+Build an infrastructure environment that capacity designed and cost optimized.
+Containerize, orchestrate, and manage services using Docker/Kubernetes.
+Understanding service mesh architecture.
+
+Operation Managment & Monitoring
+Set up monitoring tools (Prometheus, Grafana, CloudWatch, etc.) and log analysis for stable system operation.
+Performance monitoring, identify issues, and solution
+Implement security patch application and vulnerability countermeasures.
+
+Optimization & Automation
+Develop tools for infrastructure automation using IaC (Infrastructure as Code) such as Github, Terraform, and Ansible.
+Improve the infrastructure to enhance the processing speed and scalability of Generative AI.
+Perform advanced tuning of vector DB, OpenSearch, PostgreSQL, and RDBMS (e.g., query optimization, index design).
+
+Collaboration & Integration
+Coordinate with the AI platform and model development team to design infrastructure requirements that correspond to changes in model resource requirements.
+Construct a development/operation system that promotes DevOps tools (e.g., Jenkins) and processes.
+
+Required Qualifications and Skills:
+Extensive experience in operating Linux environments (command-line operation, troubleshooting).
+
+Bash script creation skills (development of automation scripts and periodic tasks).
+
+Practical experience with Docker/Kubernetes (service containerization, orchestration environment construction).
+
+In-depth understanding of the AWS platform (experience using services such as EC2, ECS, RDS, S3, IAM, VPC, etc.).
+
+Operational and tuning experience with RDBMS (particularly PostgreSQL) (transaction processing, distributed environment design, etc.).
+
+Automated deployment of applications and infrastructure configurations using Ansible.
+Design and implementation of network and firewall.
+
+Logical problem-solving skills (analysis and solution proposal for complex system issues).
+
+Ability to read and write technical documents in English.
+
+Preferred Qualifications and Skills::
+Knowledge of cloud infrastructure design and operation.
+Knowledge of infrastructure automation tools (e.g., Terraform).
+Knowledge of monitoring and log collection system operation.
+Knowledge of large language model technologies and generative AI.
+
+Ideal Candidate:
+High interest and drive regarding Generative AI.
+Excellent teamwork and communication skills and ability to adapt flexibly.
+Prioritizing the stability, reliability, and scalability of infrastructure and constantly setting improvement targets.
+Interest in new technologies and methodologies and willingness to learn and practice them.
+
+
+
+perations
+
+Job Title:
+Generation Operation Engineer
+
+Job Discription:
+Operation and management of AI models Monitoring and performance optimization of generative AI (large language models, image generation systems, etc.) during actual operations Model tuning and resource management for reducing execution time and costs
+
+Infrastructure construction and management
+Designing, constructing, and maintaining AI infrastructure using cloud environments (AWS/GCP, etc.) HA/DR design and security measures for service stabilization
+
+Problem-handling and improvement proposals 
+Rapid analysis and response to AI-generated result quality degradation or unexpected behavior Construction of an anomaly detection system using monitoring tools
+
+Operation Process improvement 
+Automation (building CI/CD pipelines, developing monitoring scripts) Establishing operation guidelines and documentation
+
+Required Qualifications and Skills:
+Infrastructure construction/operation experience 
+3+ years of practical experience on cloud platforms such as AWS/Azure/GCP
+
+Practical experience in AI model operation 
+Experience in building an operation environment after deploying machine learning/generative AI models
+
+Linux/System management skills 
+Knowledge of system configuration management tools (Ansible, etc.) and container technologies (Docker/Kubernetes)
+
+Troubleshooting capabilities 
+Problem-solving ability for 24/7/365 support for mission-critical systems
+
+Preferred Qualifications and Skills:
+Experience with monitoring tools such as Prometheus/ElasticStack/Microsoft Sentinel
+Understanding of frameworks such as PyTorch/TensorFlow, experience in optimizing inference performance
+Experience in building CI/CD pipelines using Jenkins/GitLab CI
+Experience in designing AI systems that comply with GDPR/personal information protection laws
+
+Ideal Candidate:
+Responsibility and professionalism to support the operation of large-scale systems while adhering to strict SLAs. 
+Ability to analyze monitoring data and promote operational efficiency. 
+Ability to quickly respond to operational process changes due to AI model updates. 
+Willingness to collaborate with development teams and data scientists to improve the overall service.
