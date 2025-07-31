@@ -9,7 +9,7 @@ import time
 
 def test_language_switching():
     """Test the language switching functionality"""
-    base_url = "http://localhost:8087"
+    base_url = "http://localhost:8080"
     
     print("Testing QualityAI i18n functionality...")
     print("=" * 50)

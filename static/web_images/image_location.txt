@@ -1,0 +1,37 @@
+Top page
+	Hero Header: shirahama2.jpg or shirahama3.jpg
+	Package Software: solution1.jpg
+	QAI mission: innovationsprings.jpg
+
+Product page
+	Header: eye.jpg
+	Quality AI Portal Its THE Nagi: AI2.jpg and screenshot of atlas
+	Package Software: solution1.jpg and AI3.jpg
+	Secure dedicated GenAI SaaS: use same image as top page SaaS image and networkincity.jpg
+
+Services page
+	Header: solution2.jpg
+	System integration support: programming1.jpg
+	Professional Services: devating.jpg
+	Consulting Services: consul.jpg
+
+Career page 
+	Header: career.jpg
+	AI Software Development Engineer: programming2.jpg
+	Infrastructure Engineer: infrastructure.jpg
+	Generation Operation Engineer: operation.jpg
+	Sales for Generative AI Solutions: Sales.jpg
+
+
+	- Domestic Platform / 国産基盤
+- Your own VPC / 自社のVPC
+- Pay-as-you-go / 受領課金
+- Transparent costing (Easy to budget) / 透明性のある課金制度 (予算を立てやすく)
+- Per minute pricing / 1分単位の課金
+- Cost-effective for casual users / カジュアルユーザーのコスト最適化
+- Custom Tailored Solutions / カストマイズ性のあるソリューション
+- Internal On-premise Option Available / 社内オンプレ導入オプション可能
+- Multi-modal / マルチモーダル
+- Guardrails enabled / ガードレール付き
+- Enhanced Security / セキュリティ強化
+- No risk of Data Exfiltration / データ漏洩リスク削減
