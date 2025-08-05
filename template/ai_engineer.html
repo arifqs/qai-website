@@ -6,10 +6,11 @@ $def with ()
         
       </div>
     </div>
-    <a href="/career" style="display:inline-flex;align-items:center;font-size:30px;color:#ff4a17;text-decoration:none;font-weight:bold;cursor:pointer;">
-                       
-                      <span style="margin-left:30px;animation:blink 1s infinite;@keyframes blink{0%{opacity:1;}50%{opacity:0;}100%{opacity:1;}}"><i class="bi bi-arrow-left">$messages['back_btn'] </i></span>
-                            </a>
+    <button onclick="window.location.href='/career'"
+  style="display: inline-flex;align-items: center;font-size: 20px;padding: 6px 16px;color: white;background-color: #008080;border: none;border-radius: 999px;box-shadow: 0 2px 6px rgba(0,0,0,0.2); font-weight: 1000;margin-left: 40px;margin-top: 40px;cursor: pointer;">
+  <i class="bi bi-arrow-left" style="margin-right: 6px;"></i>
+  $messages['back_btn']
+</button>
     <div class="container section-title" data-aos="fade-up">
         
         <p>$messages['job1']<br></p>
