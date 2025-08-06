@@ -6,24 +6,120 @@ $def with ()
         
       </div>
     </div>
-    
-    <div class="container section-title" style="margin-top: 30px;" data-aos="fade-up">
+     
+
+
+
+
+
+</div>
+
+
+    <div class="container section-title" style="margin-top: 30px;" >
         
         <p>$messages['careerp'] <br></p>
       </div><!-- End Section Title -->
 
-      <div class="container" data-aos="fade-up">
+      <div class="container" >
         <p>$messages['careerp_tagline']<strong>$messages['careerp_tagline1']</strong> </p>
       </div>
-          <section id="portfolio-details" class="portfolio-details section">
+      <div class="container" >
+    
+ 
+<div style="
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+">
 
-      <div class="container" data-aos="fade-up" >
+  <!-- Outer capsule border -->
+  <div style="
+    display: flex;
+    gap: 0px;
+    border: 2px solid black;
+    border-radius: 99px;
+    overflow: hidden;
+    padding: 5px;
+    background: white;
+    flex-wrap: wrap;
+  ">
+
+    <!-- Button 1 -->
+    <button onclick="selectJob('newbie')" id="btn-newbie" class="selected" style="
+      font-size: clamp(18px, 2vw, 30px);
+      padding: 8px 16px;
+      border: none;
+      background: #008080;
+      color: white;
+      font-weight: 1000;
+      cursor: pointer;
+      min-width: 160px;
+      border-radius: 99px 0 0 99px;
+    ">Fresh Graduate</button>
+
+    <!-- Button 2 -->
+    <button onclick="selectJob('career')" id="btn-career" style="
+      font-size: clamp(18px, 2vw, 30px);
+      padding: 8px 16px;
+      border: none;
+      background: #eee;
+      color: black;
+      font-weight: 1000;
+      cursor: pointer;
+      min-width: 160px;
+      border-radius: 0 99px 99px 0;
+    ">Career Person</button>
+
+  </div>
+</div>
+  </div>
+          <section  class="portfolio-details section" >
+ 
+      <div id="job-newbie" class="container"  >
         <div class="row gy-4">
 
 
               <div class="col-lg-6">
             
-                <div class="portfolio-info" data-aos="fade-up" >
+                <div class="portfolio-info"  >
+                    <h3 >Fresh Graduate</h3>
+                    <h5 ><strong>Engineer</strong></h5>
+                    <p><strong>$messages['location']</strong> $messages['location_dtl']</p>
+                    <a href="" style="display:inline-flex;align-items:center;font-size:18px;color:#008080;text-decoration:none;font-weight:bold;cursor:pointer;">
+                       $messages['view_more'] 
+                      <span style="margin-left:8px;animation:blink 1s infinite;@keyframes blink{0%{opacity:1;}50%{opacity:0;}100%{opacity:1;}}"><i class="bi bi-arrow-right"></i></span>
+                            </a>
+                  
+            
+                </div>
+              </div>
+              
+           
+
+            
+            <div class="col-lg-6">
+              <div class="portfolio-info">
+                
+                <h3 >Fresh Graduate</h3>
+                    <h5 ><strong>Sales</strong></h5>
+                    <p><strong>$messages['location']</strong> $messages['location_dtl']</p>
+                    <a href="" style="display:inline-flex;align-items:center;font-size:18px;color:#008080;text-decoration:none;font-weight:bold;cursor:pointer;">
+                       $messages['view_more'] 
+                      <span style="margin-left:8px;animation:blink 1s infinite;@keyframes blink{0%{opacity:1;}50%{opacity:0;}100%{opacity:1;}}"><i class="bi bi-arrow-right"></i></span>
+                            </a>
+    
+              </div>
+
+            </div>
+        </div>
+      </div>
+      <div id="job-career" class="container"  style="display:none;">
+        <div class="row gy-4">
+
+
+              <div class="col-lg-6">
+            
+                <div class="portfolio-info"  >
                     <h3 >$messages['engineer_job']</h3>
                     <h5 ><strong>$messages['job1']</strong></h5>
                     <p><strong>$messages['location']</strong> $messages['location_dtl']</p>
@@ -76,9 +172,199 @@ $def with ()
               </div>
 
             </div>
+            
            
+          
          
-          <div class="portfolio-description" style="margin-left: 10px;" data-aos="fade-up" >
+          
+
+    </div>
+
+  </div>
+          </section>
+          <section id="" class="portfolio-details section" style="display: none;">
+   <div class="container"  >
+          <div class="portfolio-description" style="margin-left: 10px;"  >
+
+            
+            <h1 style="text-align: center;margin-bottom: 80px;margin-top: 40px;"><strong>Get To Know Us</strong></h1>
+            <div class="row gy-4">
+
+
+              <div class="col-lg-5">
+            <h2>WHO WE ARE</h2>
+            <p>We are a smart boutique SaaS company that is focused on disrupting old marketing and communication workflows for media companies around the world. Our customers are broadcasters, streaming services, film distributors, podcasting platforms and book publishers.</p>
+            <p>We are proud to work with some of the biggest brands in the entertainment industry and take pride in developing a product that solves the real problems that face customers when it comes to media/data sharing and distribution.</p>
+            <h2>TRUE PARTNERSHIP</h2>
+            <p>We describe our relationship with our customers as “a true partnership”. Since the beginning of Clipsource, we have been working with our customers to build a platform that truly meets their needs. We see the companies we work with as partners rather than customers.</p>
+            <p>When issues arise, we solve them in a timely manner where we do not disrupt our partner’s workflows and always try to adjust our solutions to their needs.</p>
+              </div>
+              <div class="col-lg-2"></div>
+              <div class="col-lg-5">
+                <h2>WORK CULTURE</h2>
+                <p>Although we are founded way up north in Stockholm, Sweden, our team and customers are based all over the world. We pride ourselves on being a diverse international company that operates across languages, cultures and standards.</p>
+                <p>We believe that not only do you need to respect your teammates but you also need to be able to rely on them. At Clipsource everyone is willing to pitch in when they are needed and solve problems together, as a team. We work in agile teams, where sharing and learning are key elements and a natural part of our daily work.</p>
+                <h2>GREAT TECHNOLOGY</h2>
+                <p>A lot of software is built on hope, like, “yeah, we think this can be great.” At Clipsource, it is not just a vision or an idea, it is a real solution that is built with the people who use it 8 hours a day. We are proud to work closely with our customers and develop a software solution that is specifically designed to solve problems users face on a daily basis. </p>
+                <p>As the industry changes, we strive to continuously improve our product to meet the growing demands our customers have.</p>
+              </div>
+            </div>
+          </div>
+   </div>
+          </section>
+      <section id="" class="testimonials section dark-background">
+
+      <img src="" class="testimonials-bg" alt="">
+      <div class="container">
+        
+	      <h2 style="text-align: center;margin-bottom: 50px;"><strong>HIGHLIGHTS</strong></h2>
+        <div class="row gy-4">
+          <div class="col-lg-2">
+
+          </div>
+          <div class="col-lg-5">
+        <ul>
+          <li><h5 style="margin-bottom: 40px;"> 125 days off per year</h5></li>
+          <li><h5 style="margin-bottom: 40px;">Office with the view of Nature</h5></li>
+          <li><h5 style="margin-bottom: 40px;">International colleagues</h5></li>
+          <li><h5 style="margin-bottom: 40px;">Overtime allowance (Paid in full)</h5></li>
+        </ul>
+        </div>
+        <div class="col-lg-5">
+        <ul>
+          <li><h5 style="margin-bottom: 40px;">Monthly Fun events</h5></li>
+          <li><h5 style="margin-bottom: 40px;">Learning environment</h5></li>
+          <li><h5 style="margin-bottom: 40px;">Remote working possibilities</h5></li>
+          <li><h5 style="margin-bottom: 40px;">Flexible working hours</h5></li>
+        </ul>
+        </div>
+        
+        </div>
+            
+
+
+      </div>
+      </div>
+    </section>
+
+        <section id="testimonials" class="testimonials section dark-background">
+
+      <img src="static/web_images/innovationsprings.JPG" class="testimonials-bg" alt="">
+      <div class="container" >
+	
+        
+              <div class="testimonial-item">
+                
+                <h2 style="text-align: center;margin-bottom: 50px;"><strong>Want to Meet Our Executives</strong></h2>
+ <button onclick="window.location.href='/#testimonials'"
+  style="display: inline-flex;align-items: center;font-size: 24px;padding: 6px 16px;color: white;background-color: #008080;border: none;border-radius: 10px;box-shadow: 0 2px 6px rgba(0,0,0,0.2); font-weight: 500;margin-left: 40px;margin-top: 40px;cursor: pointer;">
+  
+  Learn More About US
+</button>
+                
+          </div>
+         
+
+      </div>
+
+    </section>
+
+
+<section id="" class="portfolio-details section">
+
+      <div style="margin-left: 50px;margin-right: 50px"  >
+        <h1 style="text-align: center;margin-bottom: 50px;"><strong>Our Office Locations</strong></h1>
+        <div class="row gy-4">
+
+
+              <div class="col-lg-4">
+            
+                <div class="portfolio-info" style="width: 100%; max-width: 600px; margin: auto;" >
+                    <h3 >Kishu - Ocean </h3>
+                    <img src="static/kishu.jpg"style="width: 100%; height: auto; display: block;">
+                    <h5 style="margin-top: 30px;"><strong>Shirahama Headquarters</strong></h5>
+                    <p><strong>Location:</strong> 1701-3 Naka, Shirahama-cho, Nishimuro-gun, Wakayama 649-2333</p>
+                    <p><strong>TEL: </strong>+81-739-45-1001 </p>
+                    <p><strong>FAX: </strong>+81-739-45-100</p>
+                    
+                  
+            
+                </div>
+              </div>
+              <div class="col-lg-4">
+            
+                <div class="portfolio-info" style="width: 100%; max-width: 600px; margin: auto;" >
+                    <h3 >Kanto City</h3>
+                    <img src="static/kanto.jpg"style="width: 100%; height: auto; display: block;">
+                    <h5 style="margin-top: 30px;"><strong>Tokyo Office</strong></h5>
+                    <p><strong>Location:</strong> 6F KDX Kojimachi Building, 3-3-4 Kojimachi, Chiyoda-ku, Tokyo 102-0083</p>
+                    <p><strong>TEL: </strong>+81-3-5275-6121 </p>
+                    <p><strong>FAX: </strong>+81-3-5275-6130</p>
+                  
+            
+                </div>
+              </div>
+              <div class="col-lg-4">
+            
+                <div class="portfolio-info" style="width: 100%; max-width: 600px; margin: auto;"  >
+                    <h3 >Kansai City</h3>
+                    <img src="static/kansai.jpg"style="width: 100%; height: auto; display: block;">
+                    <h5 style="margin-top: 30px;"><strong>Western Japan Branch</strong></h5>
+                    <p><strong>Location:</strong> 8F Nissei Bingocho Building, 1-7-10 Bingo-cho, Chuo-ku, Osaka-shi, Osaka 541-0051</p>
+                    <p><strong>TEL: </strong>+81-6-6125-2161 </p>
+                    <p><strong>FAX: </strong>+81-6-6125-2170</p>
+                  
+            
+                </div>
+              </div>
+              <div class="col-lg-4">
+            
+                <div class="portfolio-info"  style="width: 100%; max-width: 600px; margin: auto;">
+                    <h3 >Tohoku Forest </h3>
+                    <img src="static/tohoku.jpg"style="width: 100%; height: auto; display: block;">
+                    <h5 style="margin-top: 30px;"><strong>Sendai Branch</strong></h5>
+                    <p><strong>Location:</strong> 4F Sendai Jozenji Building, 3-4-33 Kokubun-cho, Aoba-ku, Sendai-shi, Miyagi 980-0803</p>
+                    <p><strong>TEL: </strong>+81-22-796-8082 </p>
+                    <p><strong>FAX: </strong>+81-22-796-8083</p>
+                  
+            
+                </div>
+              </div>
+              <div class="col-lg-4">
+            
+                <div class="portfolio-info"  style="width: 100%; max-width: 600px; margin: auto;">
+                    <h3 >Nagoya</h3>
+                    <img src="static/nagoya.jpg"style="width: 100%; height: auto; display: block;">
+                    <h5 style="margin-top: 30px;"><strong>Nagoya Office</strong></h5>
+                    <p><strong>Location:</strong> 4F Nagoya Nikko Shoken Building, 3-2-3 Sakae, Naka-ku, Nagoya-shi, Aichi 460-0008</p>
+                    <p><strong>TEL: </strong>+81-52-269-8734 </p>
+                    <p><strong>FAX: </strong>+81-52-269-8735</p>
+                  
+            
+                </div>
+              </div>
+              <div class="col-lg-4">
+            
+                <div class="portfolio-info" style="width: 100%; max-width: 600px; margin: auto;">
+                    <h3 >Shinetsu Mountains</h3>
+                    <img src="static/matsumoto.jpg"style="width: 100%; height: auto; display: block;">
+                    <h5 style="margin-top: 30px;"><strong>Matsumoto R&D Center</strong></h5>
+                    <p><strong>Location:</strong> 5F Matsumoto Kuranomachi Building, 3-3-16 Chuo Matsumoto-shi, Nagano 390-0811</p>
+                    <p><strong>TEL: </strong>+81-263-87-5413 </p>
+                    
+                  
+            
+                </div>
+              </div>
+               
+            
+        </div>
+        </div>
+</section>
+
+<section id="" class="portfolio-details section">
+   <div class="container"  >
+<div class="portfolio-description" style="margin-left: 10px;"  >
             
             <h2>$messages['join_us']</h2>
             <p> $messages['join_us_tag1']<strong>(hr-contact@qualityai.jp)</strong> $messages['join_us_tag2']</p>
@@ -87,7 +373,34 @@ $def with ()
             <p><i class="bi bi-check2-circle"></i> $messages['doc2']</p>
             <p><i class="bi bi-check2-circle"></i> $messages['doc3']</p>
           </div>
+          </div>
 
-    </div>
+</section>
 
-  </div>
+<script>
+  function selectJob(type) {
+    // Toggle content
+    document.getElementById('job-newbie').style.display = (type === 'newbie') ? 'block' : 'none';
+    document.getElementById('job-career').style.display = (type === 'career') ? 'block' : 'none';
+
+    // Toggle selected button style
+    const btnNewbie = document.getElementById('btn-newbie');
+    const btnCareer = document.getElementById('btn-career');
+
+    if (type === 'newbie') {
+      btnNewbie.classList.add('selected');
+      btnCareer.classList.remove('selected');
+      btnNewbie.style.background = '#008080';
+      btnNewbie.style.color = 'white';
+      btnCareer.style.background = '#eee';
+      btnCareer.style.color = 'black';
+    } else {
+      btnCareer.classList.add('selected');
+      btnNewbie.classList.remove('selected');
+      btnCareer.style.background = '#008080';
+      btnCareer.style.color = 'white';
+      btnNewbie.style.background = '#eee';
+      btnNewbie.style.color = 'black';
+    }
+  }
+</script>

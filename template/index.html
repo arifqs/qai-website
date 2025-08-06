@@ -13,7 +13,7 @@ $def with (data)
           <p data-aos="fade-up" data-aos-delay="200">$messages['qai_bn_para']</p>
         <div class="d-flex mt-4" data-aos="fade-up" >
           <a href="https://demo2.qualityai.dev:8082/" target="_blank" class="btn-get-started">$messages['qai_explore_btn']</a>
-          <a href="static/chatbot.gif" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>$messages['qai_bn_watch']</span></a>
+          <a href="static/$messages['video']" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>$messages['qai_bn_watch']</span></a>
         </div>
       </div>
 
@@ -54,8 +54,8 @@ $def with (data)
               </p>
 
               <div class="position-relative mt-4">
-                <img src="static/chatbot.gif" class="img-fluid rounded-4" alt=""loop="" autoplay="" muted=""></img>
-                <a href="static/chatbot.gif" class="glightbox pulsating-play-btn"></a>
+                <img src="static/$messages['video']" class="img-fluid rounded-4" alt=""loop="" autoplay="" muted=""></img>
+                <a href="static/$messages['video']" class="glightbox pulsating-play-btn"></a>
               </div>
             </div>
           </div>
@@ -418,26 +418,9 @@ $def with (data)
       <img src="static/web_images/innovationsprings.JPG" class="testimonials-bg" alt="">
       <div class="container" data-aos="fade-up" >
 	<h2>$messages['qai_motivation']</h2>
-        <div class="swiper init-swiper">
-          <script type="application/json" class="swiper-config">
-            {
-              "loop": true,
-              "speed": 600,
-              "autoplay": {
-                "delay": 5000
-              },
-              "slidesPerView": "auto",
-              "pagination": {
-                "el": ".swiper-pagination",
-                "type": "bullets",
-                "clickable": true
-              }
-            }
-          </script>
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
+        
               <div class="testimonial-item">
-                <img src="" class="testimonial-img" alt="">
+                
                 <h3>$messages['qai_mission_h']</h3>
                 <h4></h4>
 
@@ -448,16 +431,6 @@ $def with (data)
                 </p>
               </div>
             </div><!-- End testimonial item -->
-
-  
-           
-
-
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
 
     </section><!-- /Testimonials Section -->
 
