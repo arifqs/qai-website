@@ -20,6 +20,8 @@ urls = (
     "/infrastructure_engineer","infrastructure_engineer",
     "/operation_engineer", "operation_engineer",
     "/sales", "sales",
+    "/engineer_new", "engineer_new",
+    "/sales_new", "sales_new",
     "/set_language", "SetLanguage"
 )
 
@@ -198,6 +200,30 @@ class operation_engineer:
         # Setup i18n
         setup_i18n()
         return render.operation_engineer()
+
+class engineer_new:
+    def GET(self):
+        # Check if language is being set via URL parameter
+        i = web.input()
+        if 'lang' in i and i.lang in SUPPORTED_LANGUAGES:
+            if set_user_language(i.lang):
+                raise web.seeother('/engineer_new')
+        
+        # Setup i18n
+        setup_i18n()
+        return render.engineer_new()
+
+class sales_new:
+    def GET(self):
+        # Check if language is being set via URL parameter
+        i = web.input()
+        if 'lang' in i and i.lang in SUPPORTED_LANGUAGES:
+            if set_user_language(i.lang):
+                raise web.seeother('/sales_new')
+        
+        # Setup i18n
+        setup_i18n()
+        return render.sales_new()
 class sales:
     def GET(self):
         # Check if language is being set via URL parameter
