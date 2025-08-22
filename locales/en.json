@@ -3,7 +3,7 @@
   "langu": "Language",
   "home": "Home",
   "product": "Product",
-  "GAI": "It's THE Nagi",
+  "GAI": "It's.THE.Nagi",
   "package": "Package Software",
   "saas": "Secure Dedicated GenAI SaaS",
   "services": "Services",
@@ -27,7 +27,7 @@
   "qai_desc_p1": "Empower your team with our versatile Generative AI platform, designed to streamline tasks, boost productivity, and drive innovation!",
   "qai_desc_p2": "Quality AI aims to democratize access to Generative AI technology!",
   "qai_desc_p3": "We offer and support platforms that provide access to Open Source Generative AI technology within your own company environment. The data never leaves your company premises, so you can use Generative AI without risk or concern of data exfiltration.",
-  "qai_desc_r": "Quality AI: Smart AI solutions for every challenge",
+  "qai_desc_r": "Quality AI: What's make us Seprate from Others?",
   "qai_desc_r1": "We provide private, secure, and generative AI solutions for businesses.",
   "qai_desc_r2": "Get Started Today: Sign up for our early access program and experience the power of Generative AI firsthand.",
   "qai_desc_r3": "Let's discuss your specific needs and how our Generative AI platform can revolutionize your workflow",
@@ -101,8 +101,8 @@
   "transdescd6": "Available Languages: ",
   "transdescd7": "English, Japanese, Chinese, Korean, Spanish, French, German, Italian, Dutch, Hindi, Arabic, Portuguese, Polish",
   "transdescd8": "Our AI-based translation feature opens new opportunities for clear, effective, and engaging communication. Try it today and experience the difference!",
-  "pst1": "Quality AI Portal Its THE Nagi",
-  "psdesc1": "Quality AI is a revolutionary portal site designed to democratize access to the full spectrum of generative AI capabilities. Imagine a platform where every AI function—from image generation to complex data analysis—is just a single click away. With Its The NAGI, users can harness specialized models tailored to their unique needs, whether they're professionals seeking advanced tools or beginners exploring AI for the first time. The platform’s intuitive, user-friendly interface breaks down barriers, ensuring that even those without technical expertise can unlock the transformative power of AI. ",
+  "pst1": "Quality AI Portal Its.THE.Nagi",
+  "psdesc1": "Quality AI is a revolutionary portal site designed to democratize access to the full spectrum of generative AI capabilities. Imagine a platform where every AI function—from image generation to complex data analysis—is just a single click away. With Its.the.NAGI, users can harness specialized models tailored to their unique needs, whether they're professionals seeking advanced tools or beginners exploring AI for the first time. The platform’s intuitive, user-friendly interface breaks down barriers, ensuring that even those without technical expertise can unlock the transformative power of AI. ",
   "pstdesc2_1": "Imagine having the power of generative AI at your fingertips, but without the usual concerns of data privacy and security. With our Package software, you're in control, as it's designed to be installed within your own data center or private cloud. This means your confidential information and personal data never leave your local environment, keeping your most sensitive data under your watchful eye at all times.",
   "pstdesc2_2": "Main Features",
   "pstdesc2_3": "Predictive Analytics:",
@@ -491,5 +491,6 @@
 "ol17":"Shinetsu Mountains",
 "ol18":"Matsumoto R&D Center",
 "ol19":"5F Matsumoto Kuranomachi Building, 3-3-16 Chuo Matsumoto-shi, Nagano 390-0811",
-"loc":"Location"
+"loc":"Location",
+"portal_img":"portal_en.png"
 }
