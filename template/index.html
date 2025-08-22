@@ -1,4 +1,6 @@
-$def with (data) 
+$def with (data,qai) 
+
+
 <main class="main">
 
 
@@ -15,6 +17,31 @@ $def with (data)
           <a href="https://izanagi.qualityai.app/" target="_blank" class="btn-get-started">$messages['qai_explore_btn']</a>
           <a href="static/$messages['video']" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>$messages['qai_bn_watch']</span></a>
         </div>
+      <h1 style="margin-top: 80px;"><strong>Empower Generative AI technology 100% Locally for your Business in Safest Way</strong></h1>
+      <div class="portfolio-description" style="margin-top: 30px;" >
+             
+           <div class="row gy-4">
+
+          <div class="col-lg-6">             
+            <ul>
+                
+                <p><i class="bi bi-check-circle-fill" style="color: #008080;"></i> <span>$messages['transparent_costing']</span></p>
+                <p><i class="bi bi-check-circle-fill" style="color: #008080;"></i> <span>$messages['pay_as_you']</span></p>
+                <p><i class="bi bi-check-circle-fill" style="color: #008080;"></i> <span>$messages['cost_effective']</span></p>
+                <p><i class="bi bi-check-circle-fill" style="color: #008080;"></i> <span>$messages['no_risk']</span></p>
+              </ul>
+          </div>
+          <div class="col-lg-6">             
+            <ul>
+                
+                <p><i class="bi bi-check-circle-fill" style="color: #008080;"></i> <span>$messages['transparent_costing']</span></p>
+                <p><i class="bi bi-check-circle-fill" style="color: #008080;"></i> <span>$messages['pay_as_you']</span></p>
+                <p><i class="bi bi-check-circle-fill" style="color: #008080;"></i> <span>$messages['cost_effective']</span></p>
+                <p><i class="bi bi-check-circle-fill" style="color: #008080;"></i> <span>$messages['no_risk']</span></p>
+              </ul>
+          </div>
+          
+           </div>
       </div>
 
     </section><!-- /Hero Section -->
@@ -25,11 +52,12 @@ $def with (data)
 
         <div class="row gy-4">
           <div class="col-lg-6" data-aos="fade-up" >
-            <h3>$messages['qai_desc']</h3>
+            <h3>$messages['qai_desc_t1']<span style="color:#008080;">$messages['qai_desc_t2']</span>$messages['qai_desc_t3']</h3>
             <img src="static/web_images/AI4.jpg" class="img-fluid rounded-4 mb-4" alt="">
             <p>$messages['qai_desc_p1']</p>
             <div class="content ps-0 ps-lg-5">
             <ul>
+                <li><i class="bi bi-check-circle-fill"></i> <span>$messages['your_own_1'] </span><strong style="color:#008080;">$messages['your_own_2']</strong></li>
                 <li><i class="bi bi-check-circle-fill"></i> <span>$messages['domestic_platform'] </span></li>
                 <li><i class="bi bi-check-circle-fill"></i> <span>$messages['multi_modal']</span></li>
                 <li><i class="bi bi-check-circle-fill"></i> <span>$messages['guardrails_enabled']</span></li>
@@ -383,7 +411,15 @@ $def with (data)
               </div>
             </div>
           </div><!-- End Service Item -->
-
+          <div class="col-md-6" data-aos="fade-up" >
+            <div class="service-item d-flex position-relative h-100">
+              <i class="bi bi-diagram-3-fill icon flex-shrink-0"></i>
+              <div>
+                <h4 class="title"><a href="/services#consulting-services" class="stretched-link">$messages['consulting_services']</a></h4>
+                <p class="description">$messages['tfbs_desc']</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
           <div class="col-md-6" data-aos="fade-up" >
             <div class="service-item d-flex position-relative h-100">
               <i class="bi bi-database-fill-up icon flex-shrink-0"></i>
@@ -394,15 +430,7 @@ $def with (data)
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-md-6" data-aos="fade-up" >
-            <div class="service-item d-flex position-relative h-100">
-              <i class="bi bi-diagram-3-fill icon flex-shrink-0"></i>
-              <div>
-                <h4 class="title"><a href="/services#consulting-services" class="stretched-link">$messages['consulting_services']</a></h4>
-                <p class="description">$messages['tfbs_desc']</p>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
+          
 
 
 
@@ -450,9 +478,9 @@ $def with (data)
               <div class="col-lg-4" >
             
                 <div class="portfolio-info" style="width: 100%; max-width: 500px; margin: auto;text-align: center;" >
-                    <h3 >Chairman</h3>
+                    <h3 >$messages['chairman']</h3>
                     <img src="static/member/sacho.jpg"style="width: 100%; height: auto; display: block;">
-                    <h5 style="margin-top: 30px;"><strong>Kirk Ura</strong></h5>
+                    <h5 style="margin-top: 30px;"><strong>$messages['chairman_name']</strong></h5>
                     
                     
                   
@@ -462,10 +490,10 @@ $def with (data)
               <div class="col-lg-4">
             
                 <div class="portfolio-info" style="width: 100%; max-width: 500px; margin: auto;text-align: center;" >
-                  <h3>Chief Executive Officer</h3>
+                  <h3>$messages['ceo']</h3>
                     
                     <img src="static/member/brent.png" style="width: 100%; height: auto; display: block;">
-                    <h5 style="margin-top: 30px;"><strong>Uemura Brent</strong></h5>
+                    <h5 style="margin-top: 30px;"><strong>$messages['ceo_name']</strong></h5>
                     
                   
             
@@ -559,4 +587,68 @@ $def with (data)
       </div>
 
     </section><!-- /Contact Section -->
+
+    <!-- Popup -->
+<div id="cookieBar">
+  <p>We will use cookies for Site Functionality, Will you accept?</p>
+  <div>
+    <button class="btn accept" onclick="setConsent(true)">Accept</button>
+    <button class="btn deny" onclick="setConsent(false)">Reject</button>
+  </div>
+</div>
+  
+<script>
+function acceptCookies(num) {
+    // 1. Hide the cookie box
+    const cookieBox = document.getElementById("cookie-box");
+    if (cookieBox) cookieBox.classList.add("hidden");
+
+    // 2. Save in localStorage
+    localStorage.setItem("qai", num);
+
+    // 3. Send to backend to update Python variable
+    fetch('/set_qai', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ value: num })
+    })
+    .then(res => res.json())
+    .then(data => {
+        console.log("Server response:", data);
+        if (data.status === "success") {
+            const qaiEl = document.getElementById("qai-value");
+            if (qaiEl) qaiEl.textContent = data.qai;
+        }
+    });
+}
+window.onload = function() {
+  const lastDenied = localStorage.getItem("lastDenied");
+  const now = new Date().getTime();
+
+  
+  if (!localStorage.getItem("cookieConsent")) {
+    if (!lastDenied || now - lastDenied > 24*60*60*1000) { 
+      document.getElementById("cookieBar").style.display = "flex";
+    }
+  }
+};
+
+function setConsent(allowed) {
+  if (allowed) {
+    localStorage.setItem("cookieConsent", "accepted");
+    acceptCookies(1);
+    
+  } else {
+    
+    localStorage.setItem("lastDenied", new Date().getTime());
+    acceptCookies(0);
+    localStorage.removeItem("cookieConsent"); 
+    
+  }
+  document.getElementById("cookieBar").style.display = "none";
+}
+
+
+  </script>
+
 </main>

@@ -22,7 +22,8 @@ urls = (
     "/sales", "sales",
     "/engineer_new", "engineer_new",
     "/sales_new", "sales_new",
-    "/set_language", "SetLanguage"
+    "/set_language", "SetLanguage",
+    '/set_qai', 'SetQAI'
 )
 
 # Language configuration
@@ -31,6 +32,8 @@ DEFAULT_LANGUAGE = 'en'
 
 # Create the application
 app = web.application(urls, globals())
+qal=0
+web.config.qai=0
 
 render = template.render("template", base="base")
 template.Template.globals['ctx'] = web.ctx
@@ -54,8 +57,12 @@ def set_user_language(lang_code):
         try:
             print(f"Setting language cookie to: {lang_code}")
             # Set cookie for 30 days
-            web.setcookie('qai_lang', lang_code, expires=86400*30)
-            print(f"Language cookie set successfully")
+            if web.config.qai==1:
+                web.setcookie('qai_lang', lang_code, expires=86400*30)
+                print(f"Language cookie set successfully")
+            elif web.config.qai==0:
+                web.setcookie('qai_lang', lang_code, expires=1)
+                print(f"Browser not saving anything")
             return True
         except Exception as e:
             print(f"Error setting language cookie: {e}")
@@ -99,7 +106,19 @@ def setup_i18n():
     print(f"i18n setup - current_lang: {current_lang}")
     
     return current_lang, messages
-
+class SetQAI:
+    def POST(self):
+        data = web.data()  # raw POST body
+        try:
+            json_data = json.loads(data)
+            if "value" in json_data:
+                qal = int(json_data["value"])
+                print("qai changed to:", qal)  # <-- use session.qai
+                web.config.qai=qal
+                return json.dumps({"status": "success", "qai": qal})
+        except Exception as e:
+            print("Error:", e)
+        return json.dumps({"status": "error"})
 class Index:
     def GET(self):
         # Check if language is being set via URL parameter (for backward compatibility)
@@ -117,8 +136,7 @@ class Index:
         print(f"Index page - Current language: {current_lang}")
         print("Loaded IDs:", list(data.keys()))
         
-        return render.index(data)
-
+        return render.index(data,qal)
     def POST(self):
         try:
             # Setup i18n for POST request
