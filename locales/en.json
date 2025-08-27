@@ -3,7 +3,7 @@
   "langu": "Language",
   "home": "Home",
   "product": "Product",
-  "GAI": "It's.THE.Nagi",
+  "GAI": "Portal (It's.THE.Nagi)",
   "package": "Package Software",
   "saas": "Secure Dedicated GenAI SaaS",
   "services": "Services",
@@ -27,7 +27,7 @@
   "qai_desc_p1": "Empower your team with our versatile Generative AI platform, designed to streamline tasks, boost productivity, and drive innovation!",
   "qai_desc_p2": "Quality AI aims to democratize access to Generative AI technology!",
   "qai_desc_p3": "We offer and support platforms that provide access to Open Source Generative AI technology within your own company environment. The data never leaves your company premises, so you can use Generative AI without risk or concern of data exfiltration.",
-  "qai_desc_r": "Quality AI: What's make us Seprate from Others?",
+  "qai_desc_r": "Quality AI: Our key differentiators?",
   "qai_desc_r1": "We provide private, secure, and generative AI solutions for businesses.",
   "qai_desc_r2": "Get Started Today: Sign up for our early access program and experience the power of Generative AI firsthand.",
   "qai_desc_r3": "Let's discuss your specific needs and how our Generative AI platform can revolutionize your workflow",
@@ -118,8 +118,8 @@
   "pstdesc2_13": "Integration Support: ",
   "pstdesc2_14": "We understand that implementing new technology can be daunting. That's why we offer comprehensive support and guidance throughout the entire process. Our team of experts will ensure a smooth installation and provide ongoing assistance as needed.",
   "pstdesc2_15": "No more worries about data breaches or unauthorized access. With Package software, you're not just harnessing the power of generative AI, you're doing so securely, responsibly, and on your terms. It's AI done right, for those who refuse to compromise on security and control.",
-  "pstdesc3_1": "Discover the power of customization with our Generative AI SaaS, designed to seamlessly integrate AI into your business applications. We understand that every organization is unique, which is why we empower you to select the specific features and capabilities that align with your business needs. Focus on your core competencies while we handle the AI integration, ensuring you get the most out of your investment. Our dedicated team of experts takes care of the entire AI environment. From hardware procurement to software updates, security enhancements to system maintenance, we've got you covered. Think of us as your AI concierge, ensuring your AI integration experience is smooth and hassle-free.",
-  "pstdesc3_2": "We believe in offering flexible solutions that cater to businesses of all scales. Whether you're a lean startup seeking an affordable AI solution or an established enterprise looking for a scalable AI integration, we've got you sorted. Our flexible contract terms ensure that you get an AI solution that fits both your budget and your specific business requirements. Embrace the future of business applications with our secure, customizable, and flexible Generative AI SaaS. Say goodbye to one-size-fits-all solutions and hello to AI integration tailored just for you. Experience the difference with Secure GenAI SaaS today.",
+  "pstdesc3_1": "Discover the power of customization with our Generative AI SaaS, designed to seamlessly integrate AI into your business applications. We understand that every organization is unique, which is why we empower you to select the specific features and capabilities that align with your business needs. Focus on your core competencies while we handle the AI integration, ensuring you get the most out of your investment. Our dedicated team of experts takes care of the entire AI environment. From hardware procurement to software updates, security enhancements to system maintenance, we've got you covered.",
+  "pstdesc3_2": "Think of us as your AI concierge, ensuring your AI integration experience is smooth and hassle-free..We believe in offering flexible solutions that cater to businesses of all scales. Whether you're a lean startup seeking an affordable AI solution or an established enterprise looking for a scalable AI integration, we've got you sorted. Our flexible contract terms ensure that you get an AI solution that fits both your budget and your specific business requirements. Embrace the future of business applications with our secure, customizable, and flexible Generative AI SaaS. Say goodbye to one-size-fits-all solutions and hello to AI integration tailored just for you. Experience the difference with Secure GenAI SaaS today.",
   "fsdesc1_1": "Unlock the Full Potential of Your Business with Seamless Generative AI Integration.In today's rapidly evolving digital landscape, embracing the power of generative AI is not just an advantage, it's a necessity. Our expert system integration support ensures a smooth transition, enabling you to harness the full potential of AI while minimizing disruption to your operations.",
   "fsdesc1_2": "Strategic Planning:",
   "fsdesc1_3": "We begin by identifying key areas where generative AI can create significant impact, and aligning these with your strategic objectives.",
@@ -492,5 +492,6 @@
 "ol18":"Matsumoto R&D Center",
 "ol19":"5F Matsumoto Kuranomachi Building, 3-3-16 Chuo Matsumoto-shi, Nagano 390-0811",
 "loc":"Location",
-"portal_img":"portal_en.png"
+"portal_img":"portal_en.png",
+"magic":""
 }

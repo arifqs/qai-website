@@ -17,6 +17,7 @@ urls = (
     "/product", "Product",
     "/services", "Services",
     "/ai_engineer", "ai_engineer",
+    "/about_us", "about_us",
     "/infrastructure_engineer","infrastructure_engineer",
     "/operation_engineer", "operation_engineer",
     "/sales", "sales",
@@ -61,7 +62,7 @@ def set_user_language(lang_code):
                 web.setcookie('qai_lang', lang_code, expires=86400*30)
                 print(f"Language cookie set successfully")
             elif web.config.qai==0:
-                web.setcookie('qai_lang', lang_code, expires=1)
+                web.setcookie('qai_lang', lang_code, expires=86400)
                 print(f"Browser not saving anything")
             return True
         except Exception as e:
@@ -195,6 +196,18 @@ class ai_engineer:
         setup_i18n()
         return render.ai_engineer()
 
+class about_us:
+    def GET(self):
+        # Check if language is being set via URL parameter
+        i = web.input()
+        if 'lang' in i and i.lang in SUPPORTED_LANGUAGES:
+            if set_user_language(i.lang):
+                raise web.seeother('/about_us')
+        
+        # Setup i18n
+        setup_i18n()
+        return render.about_us()
+    
 class infrastructure_engineer:
     def GET(self):
         # Check if language is being set via URL parameter

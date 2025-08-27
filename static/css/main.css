@@ -238,7 +238,7 @@ h6 {
 .header .cta-btn,
 .header .cta-btn:focus {
   color: var(--contrast-color);
-  font-size: 13px;
+  font-size: 20px;
   padding: 7px 25px;
   margin: 0 0 0 30px;
   border-radius: 4px;
@@ -313,7 +313,7 @@ h6 {
   .navmenu a,
   .navmenu a:focus {
     color: var(--nav-color);
-    font-size: 13px;
+    font-size: 20px;
     padding: 0 2px;
     font-family: var(--nav-font);
     font-weight: 500;
@@ -328,7 +328,7 @@ h6 {
 
   .navmenu a i,
   .navmenu a:focus i {
-    font-size: 12px;
+    font-size: 20px;
     line-height: 0;
     margin-left: 5px;
     transition: 0.3s;
@@ -381,7 +381,7 @@ h6 {
 
   .navmenu .dropdown ul a {
     padding: 10px 20px;
-    font-size: 15px;
+    font-size: 20px;
     text-transform: none;
     color: var(--nav-dropdown-color);
   }
@@ -453,7 +453,7 @@ h6 {
     color: var(--nav-dropdown-color);
     padding: 10px 20px;
     font-family: var(--nav-font);
-    font-size: 17px;
+    font-size: 20px;
     font-weight: 500;
     display: flex;
     align-items: center;
@@ -464,7 +464,7 @@ h6 {
 
   .navmenu a i,
   .navmenu a:focus i {
-    font-size: 12px;
+    font-size: 20px;
     line-height: 0;
     margin-left: 5px;
     width: 30px;
@@ -548,7 +548,7 @@ h6 {
 .footer {
   color: var(--default-color);
   background-color: var(--background-color);
-  font-size: 14px;
+  font-size: 20px;
   position: relative;
 }
 
@@ -576,7 +576,7 @@ h6 {
 }
 
 .footer .footer-about p {
-  font-size: 14px;
+  font-size: 20px;
   font-family: var(--heading-font);
 }
 
@@ -600,7 +600,7 @@ h6 {
 }
 
 .footer h4 {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: bold;
   position: relative;
   padding-bottom: 12px;
@@ -618,7 +618,7 @@ h6 {
 
 .footer .footer-links ul i {
   padding-right: 3px;
-  font-size: 13px;
+  font-size: 20px;
   line-height: 0;
   color: var(--accent-color);
 }
@@ -859,7 +859,7 @@ section,
 }
 
 .section-title h2 {
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 500;
   padding: 0;
   line-height: 1px;
@@ -1756,6 +1756,7 @@ section,
 .portfolio-details .portfolio-description p {
   padding: 0;
   color: color-mix(in srgb, var(--default-color), transparent 30%);
+  font-size: 22px;
 }
 
 /*--------------------------------------------------------------

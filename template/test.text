@@ -1,0 +1,29 @@
+<script>
+window.onload = function() {
+  const lastDenied = localStorage.getItem("lastDenied");
+  const now = new Date().getTime();
+
+  // Show popup if never accepted or denied > 1 day ago
+  if (!localStorage.getItem("cookieConsent")) {
+    if (!lastDenied || now - lastDenied > 24*60*60*1000) { // 24*60*60*1000 = 1 day
+      document.getElementById("cookieBar").style.display = "flex";
+    }
+  }
+};
+
+function setConsent(allowed) {
+  if (allowed) {
+    // Accept → save choice permanently
+    localStorage.setItem("cookieConsent", "accepted");
+    console.log("✅ Cookies accepted");
+  } else {
+    // Deny → save timestamp, popup will show again after 1 day
+    localStorage.setItem("lastDenied", new Date().getTime());
+    localStorage.removeItem("cookieConsent"); // ensure it's not set
+    console.log("❌ Cookies denied, will ask again after 1 day");
+  }
+
+  // Hide popup immediately
+  document.getElementById("cookieBar").style.display = "none";
+}
+  </script>
